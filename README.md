@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Machine Vision<br>📖 Interested in Computer Science and Mathematics<br>✈️ Travelled to over 15 Countries<br>🏊‍♂️ Swimmer
+🔭 Currently working on Machine Vision<br>📖 Interested in Computer Science and Mathematics<br>🏊‍♂️ Swimmer
 
 
 ## 🌐 Socials:

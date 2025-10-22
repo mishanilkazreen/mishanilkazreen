@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on Machine Learning Research in Digital Safety<br>📖 Interested in Computer Science and Mathematics Academicsbr>🏊‍♂️ Swimmer
+🔭 Currently working on Machine Learning Research in Digital Safety<br>📖 Interested in Computer Science and Mathematics <br>🏊‍♂️ Swimmer
 
 
 ## 🌐 Socials:

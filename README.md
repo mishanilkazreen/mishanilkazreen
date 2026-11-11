@@ -3,6 +3,8 @@ Hi, I'm Mishanil 👋 I'm an undergraduate student studying **Computer Science**
 
 My research focuses are in **machine learning for digital safety**, where I build tools that help detect and moderate harmful content online.
 
+Founder @ [treeprep.com](https://treeprep.com) (give it a try!)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mishanil) [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0008-3484-9498) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mishanil@dockly.uk) 
 
